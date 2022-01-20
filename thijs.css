@@ -318,3 +318,17 @@ h5{
    bottom: 60px;
     
   }
+
+  #javafoto{
+      position: relative;
+      width: 400px;
+      height: 400px;
+      left: 850px;
+      bottom: 489px;
+  }
+
+  #opdrachte{
+      left: 650px;
+      bottom: 500px;
+
+  }
