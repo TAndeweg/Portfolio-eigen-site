@@ -303,3 +303,18 @@ h5{
       top: 380px;
       right: 160px;
   }
+
+  #javascriptimage{
+      position: relative;
+      width: 400px;
+      height: 400px;
+      left: 500px;
+      bottom: 50px;
+    
+  }
+
+  #opdrachten{
+   left: 250px;
+   bottom: 60px;
+    
+  }
