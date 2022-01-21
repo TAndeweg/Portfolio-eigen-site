@@ -380,3 +380,7 @@ h5{
       right: 150px;
       bottom: 100px;
   }
+
+  html{
+      overflow-x: hidden;
+  }
